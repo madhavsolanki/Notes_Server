@@ -24,4 +24,5 @@ const authenticateUser = async (req, res, next) => {
   }
 };
 
+// DB Change
 export default authenticateUser;
